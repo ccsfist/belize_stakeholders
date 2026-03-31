@@ -1,3 +1,11 @@
+# Overview
+
+This is one of three repos for the WFP Belize Multi-Hazard Early Warning Systems project. The other two are available at:
+
+https://github.com/ccsfist/belize_earthengine
+https://github.com/ccsfist/belize_earlywarning
+
+
 # Slide Instructions
 
 This project uses mkdocs, kobo, and some javascript to make an educational or project decision workflow where output is saved in kobo.  It uses a simplified "Configuration Div" system to handle slide logic (forms, redirects, images, and email persistence). Instead of writing complex HTML/JS in every slide, you simply place one configuration line at the bottom of your whatever.md file in docs.
